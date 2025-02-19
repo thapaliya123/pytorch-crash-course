@@ -1,4 +1,4 @@
-# Deep Learning with PyTorch
+# Introduction to PyTorch
 - According to Wikipedia, PyTorch is an open source machine learning framework based on the Torch library, used for applications such as computer vision and natural language processing, originally developed by Meta AI and now part of the Linux Foundation Umbrella. 
 - It is one of the preferred platforms for deep learning research. 
 - It is very famous because:
